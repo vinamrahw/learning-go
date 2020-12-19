@@ -1,2 +1,2 @@
 # learning-go
-Go lang learnings
+linkedlist.go - Simply Linked list
